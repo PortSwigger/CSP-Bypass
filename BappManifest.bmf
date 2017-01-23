@@ -2,7 +2,7 @@ Uuid: b113bdc1390647b092cb527c0b95116d
 ExtensionType: 2
 Name: CSP-Bypass
 ScreenVersion: 1.0
-SerialVersion: 1
+SerialVersion: 2
 MinPlatformVersion: 0
 ProOnly: True
 Author: Joe DeMesy
