@@ -1,6 +1,7 @@
 Uuid: b113bdc1390647b092cb527c0b95116d
 ExtensionType: 2
 Name: CSP-Bypass
+RepoName: csp-bypass
 ScreenVersion: 1.0
 SerialVersion: 2
 MinPlatformVersion: 0
